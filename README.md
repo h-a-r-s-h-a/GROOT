@@ -12,7 +12,7 @@ I'm written in python.<br>
 ## Installation
 Clone the repository. Then, follow the installation steps to talk GROOT.
 
-### Create a Virtual Environemnt(python --version 3.6 required)
+### Create a Virtual Environemnt(python 3.6 required)
 ```
 virtualenv -p python3.6 VENV_NAME
 ```
