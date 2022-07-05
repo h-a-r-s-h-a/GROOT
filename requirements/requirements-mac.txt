@@ -8,7 +8,7 @@ future==0.16.0
 gTTS==2.0.1
 gTTS-token==1.1.1
 idna==2.7
-lxml==4.2.3
+lxml==4.9.1
 numpy==1.14.5
 playsound==1.2.2
 progressbar33==2.4
