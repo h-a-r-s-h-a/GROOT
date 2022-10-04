@@ -8,8 +8,8 @@ future==0.16.0
 gTTS==2.0.1
 gTTS-token==1.1.1
 idna==2.7
-lxml==4.2.3
-numpy==1.14.5
+lxml==4.9.1
+numpy==1.22.2
 playsound==1.2.2
 progressbar33==2.4
 PyAudio==0.2.11
